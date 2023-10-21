@@ -1,0 +1,22 @@
+@startuml
+skinparam defaultFontName Helvetica
+skinparam roundcorner 20
+left to right direction
+skinparam shadowing<<System>> true
+
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+Person(admin, "Администратор") #Teal
+Person(moderator, "Модератор") #Teal
+Person(user, "Пользователь") #Teal
+System_Ext(current, "Гос Услуги", "Центр аутентификации пользователей")
+
+System(socialnet, "ВМесте и Точка", "Веб-сайт социальной сети с личной страницей пользователя и P2P мессенджером") #LightSeaGreen/TECHNOLOGY
+
+
+Rel(admin, socialnet, "Просмотр, добавление и редактирование пользователей, добавление ролей, просмотр логов")
+Rel(moderator, socialnet, "Модерация контента")
+Rel(user, socialnet, "Регистрация и поиск пользователей, просмотр и отправка сообщений, просмотр и изменение стены")
+Rel(socialnet, current, "Идентификация личных данных пользователей")
+
+@enduml
