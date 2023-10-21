@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/localadmin/ArchProject/Software-Arch/socialnet/load_data.cpp
+string
+-
+iostream
+-
+fstream
+-
+Poco/Data/MySQL/Connector.h
+-
+Poco/Data/MySQL/MySQLException.h
+-
+Poco/Data/SessionFactory.h
+-
+Poco/JSON/Object.h
+-
+Poco/JSON/Array.h
+-
+Poco/JSON/Parser.h
+-
+Poco/Dynamic/Var.h
+-
+

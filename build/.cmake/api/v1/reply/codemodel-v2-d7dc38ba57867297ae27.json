@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hl_server",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "load_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_data-Debug-536d97df737c6e6d6d59.json",
+					"name" : "load_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "socialnet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socialnet-Debug-13b22919f03077f07ddf.json",
+					"name" : "socialnet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "writer_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-writer_main-Debug-fb42caaa1288d92df910.json",
+					"name" : "writer_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/localadmin/ArchProject/Software-Arch/build",
+		"source" : "/home/localadmin/ArchProject/Software-Arch/socialnet"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

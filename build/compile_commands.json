@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/writer_main.dir/writer_main.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/writer_main.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/writer_main.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/writer_main.dir/user_server/config/config.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/config/config.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/config/config.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/writer_main.dir/user_server/database/database.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/database.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/database.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/writer_main.dir/data_cache/cache.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/data_cache/cache.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/data_cache/cache.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/writer_main.dir/user_server/database/user.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/user.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/user.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/main.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/main.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/main.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/user_server/config/config.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/config/config.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/config/config.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/data_cache/cache.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/data_cache/cache.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/data_cache/cache.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/user_server/database/database.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/database.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/database.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/user_server/database/user.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/user.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/user_server/database/user.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/messenger_server/database/messenger.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/messenger_server/database/messenger.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/messenger_server/database/messenger.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/localadmin/ArchProject/Software-Arch/build   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/socialnet.dir/wall_server/database/wall.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/wall_server/database/wall.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/wall_server/database/wall.cpp"
+},
+{
+  "directory": "/home/localadmin/ArchProject/Software-Arch/build",
+  "command": "/usr/bin/c++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500   -W -Wall -std=c++17 -DREDISCPP_HEADER_ONLY=ON -g   -o CMakeFiles/load_data.dir/load_data.cpp.o -c /home/localadmin/ArchProject/Software-Arch/socialnet/load_data.cpp",
+  "file": "/home/localadmin/ArchProject/Software-Arch/socialnet/load_data.cpp"
+}
+]

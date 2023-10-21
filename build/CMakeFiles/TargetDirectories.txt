@@ -1,0 +1,5 @@
+/home/localadmin/ArchProject/Software-Arch/build/CMakeFiles/rebuild_cache.dir
+/home/localadmin/ArchProject/Software-Arch/build/CMakeFiles/edit_cache.dir
+/home/localadmin/ArchProject/Software-Arch/build/CMakeFiles/writer_main.dir
+/home/localadmin/ArchProject/Software-Arch/build/CMakeFiles/socialnet.dir
+/home/localadmin/ArchProject/Software-Arch/build/CMakeFiles/load_data.dir
